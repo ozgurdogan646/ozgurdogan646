@@ -2,7 +2,7 @@
 
 - 🔭 I am a fourth year CS student in Mugla Sitki Kocman University.
 - ⚡ I'm currently working on Computer Vision and GAN architectures.
-- 💬 Ask me about AI, DL, Python
+- 💬 Ask me about ML, DL, Python
 - 📫 How to reach me: ozgurdogan646@gmail.com
 
 <img align="right" alt="GIF" src="https://i2.wp.com/i.giphy.com/media/gfAwiNg7857sVYomLY/giphy-downsized.gif?w=770&ssl=1" width="300" height="250" />
