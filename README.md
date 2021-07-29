@@ -1,7 +1,7 @@
 ### About me
 
-- 🔭 I am a fourth year CS student in Mugla Sitki Kocman University.
-- ⚡ I'm currently working on Computer Vision and GAN architectures.
+- 🔭 I am currentl working at Garanti BBVA as Junior Data Scientist.
+- ⚡ I'm currently working on Tensorflow, PyTorch and Adaptive Learning.
 - 💬 Ask me about ML, DL, Python
 - 📫 How to reach me: ozgurdogan646@gmail.com
 
