@@ -1,7 +1,7 @@
 ### About me
 
-- 🔭 I am currentl working at Garanti BBVA as Junior Data Scientist.
-- ⚡ I'm currently working on Big Data and Adaptive Learning.
+- 🔭 I am currently working at Garanti BBVA as Junior Data Scientist.
+- ⚡ I'm currently working on Big Data, Spark and Tensorflow.
 - 💬 Ask me about ML, DL, Python
 - 📫 How to reach me: ozgurdogan646@gmail.com
 
